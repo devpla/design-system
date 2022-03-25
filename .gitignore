@@ -1,5 +1,4 @@
 node_modules/
-build/
-build_story/
+dist/
 yarn-error.log
 debug.log
