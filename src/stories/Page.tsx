@@ -92,7 +92,6 @@ export const Page: React.VFC = () => {
 
 const Article = styled.article`
   section {
-    font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 14px;
     line-height: 24px;
     padding: 48px 20px;
